@@ -1,9 +1,8 @@
-# Sample Hardhat Project
+# Cryptodevs NFT Collection (Learnweb3 lesson)  
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+A Simple IEnumerable ERC721 NFT Collection with a custom whitelist contract for free mints. 
 
-Try running some of the following tasks:
-
+## Run and deploy
 ```shell
 npx hardhat help
 npx hardhat test
